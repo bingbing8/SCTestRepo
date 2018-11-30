@@ -1,0 +1,1 @@
+write-verbose "test" -verbose
