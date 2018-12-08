@@ -1,1 +1,1 @@
-New-Cmd -Force
+Write-Host """""""
