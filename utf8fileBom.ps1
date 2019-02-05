@@ -1,3 +1,4 @@
-ï»¿#ÄãºÃ£¬ÕâÊÇ¸ö²âÊÔ
-Write-host "UTF8"
+ï»¿Write-host "UTF8"
 Write-host "BOM"
+
+#ÄãºÃ£¬ÕâÊÇ²âÊÔ
