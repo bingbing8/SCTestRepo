@@ -1,4 +1,4 @@
-﻿#hello 你好
+#hello 你好
 
 Write-host "UTF8"
 Write-host "BOM"
