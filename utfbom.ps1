@@ -1,4 +1,4 @@
 ﻿#hello 
-Write-host "UTF8"
+Write-host "UTF16"
 Write-host "BOM"
 #来了中文
