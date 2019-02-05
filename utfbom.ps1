@@ -1,5 +1,3 @@
-О╩©#hello дЦ╨ц╩╩Ёижпнд
-
+О╩©#hello 
 Write-host "UTF8"
 Write-host "BOM"
-#дЦ╨цё╛уБйг╡Бйт 
