@@ -1,2 +1,2 @@
-Write-host "UTF81111"
+Write-host "UTF"
 Write-host "BOM"
